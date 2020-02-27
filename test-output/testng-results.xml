@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_32.png'><img src='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_32.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_40.png'><img src='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_40.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_52.png'><img src='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_52.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="118956" started-at="2019-05-10T17:26:57Z" finished-at="2019-05-10T17:28:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="118956" started-at="2019-05-10T17:26:57Z" finished-at="2019-05-10T17:28:56Z">
+      <class name="registration.RegistrationTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:registration.RegistrationTest@1907bac]" name="beforeSuite" is-config="true" duration-ms="2770" started-at="2019-05-10T17:26:54Z" finished-at="2019-05-10T17:26:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:registration.RegistrationTest@1907bac]" name="beforeTest" is-config="true" duration-ms="64049" started-at="2019-05-10T17:26:57Z" finished-at="2019-05-10T17:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:registration.RegistrationTest@1907bac]" name="beforeMethod" is-config="true" duration-ms="87" started-at="2019-05-10T17:28:01Z" finished-at="2019-05-10T17:28:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void registration.RegistrationTest.testRegistration()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testRegistration()[pri:0, instance:registration.RegistrationTest@1907bac]" name="testRegistration" duration-ms="51334" started-at="2019-05-10T17:28:01Z" finished-at="2019-05-10T17:28:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_32.png'><img src='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_32.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_40.png'><img src='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_40.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_52.png'><img src='D:\Selenium_Projects\KiranReddy\src\main\resources\screenShots\blank_10_05_2019_10_58_52.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:registration.RegistrationTest@1907bac]" name="afterMethod" is-config="true" duration-ms="1764" started-at="2019-05-10T17:28:53Z" finished-at="2019-05-10T17:28:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testRegistration status=SUCCESS method=RegistrationTest.testRegistration()[pri:0, instance:registration.RegistrationTest@1907bac] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:registration.RegistrationTest@1907bac]" name="afterTest" is-config="true" duration-ms="1590" started-at="2019-05-10T17:28:55Z" finished-at="2019-05-10T17:28:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- registration.RegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
